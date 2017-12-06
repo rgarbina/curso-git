@@ -2,3 +2,8 @@ body{
     color: white;
     background-color: black;
 }
+body table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+}
